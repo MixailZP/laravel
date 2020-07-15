@@ -60,4 +60,8 @@ class MainController extends Controller
         $review->save();
         return back();
     }
+
+    function test(){
+        
+    }
 }
