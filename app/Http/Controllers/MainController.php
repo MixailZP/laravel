@@ -10,6 +10,7 @@ use App\User;
 
 class MainController extends Controller
 {
+    // main page
     public function index()
     {
         // $category = Category::find(1);
